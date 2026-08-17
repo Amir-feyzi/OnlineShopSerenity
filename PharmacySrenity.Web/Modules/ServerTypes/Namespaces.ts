@@ -1,0 +1,12 @@
+﻿export const AdministrationNS: "PharmacySrenity.Administration" = "PharmacySrenity.Administration";
+export const nsAdministration: "PharmacySrenity.Administration." = "PharmacySrenity.Administration.";
+export const CategoryNS: "PharmacySrenity.Category" = "PharmacySrenity.Category";
+export const nsCategory: "PharmacySrenity.Category." = "PharmacySrenity.Category.";
+export const MembershipNS: "PharmacySrenity.Membership" = "PharmacySrenity.Membership";
+export const nsMembership: "PharmacySrenity.Membership." = "PharmacySrenity.Membership.";
+export const ModulesProductProductNS: "PharmacySrenity.Modules.Product.Product" = "PharmacySrenity.Modules.Product.Product";
+export const nsModulesProductProduct: "PharmacySrenity.Modules.Product.Product." = "PharmacySrenity.Modules.Product.Product.";
+export const ProductNS: "PharmacySrenity.Product" = "PharmacySrenity.Product";
+export const nsProduct: "PharmacySrenity.Product." = "PharmacySrenity.Product.";
+export const ProvinceNS: "PharmacySrenity.Province" = "PharmacySrenity.Province";
+export const nsProvince: "PharmacySrenity.Province." = "PharmacySrenity.Province.";
